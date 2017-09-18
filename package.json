@@ -1,0 +1,28 @@
+{
+  "name": "git-example",
+  "version": "1.0.0",
+  "description": "jindonganlie",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaXiaoCui11/git-example.git"
+  },
+  "author": "maxiaocui",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MaXiaoCui11/git-example/issues"
+  },
+  "homepage": "https://github.com/MaXiaoCui11/git-example#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.8.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-ruby-sass": "^2.1.1",
+    "gulp-uglify": "^3.0.0"
+  }
+}
